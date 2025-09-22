@@ -1,8 +1,8 @@
 package SortingAlgorithms;
 
-public class selectionSort {
+public class SelectionSort {
 
-    private void selectionSortImpl(int[] array){
+    public void selectionSortImpl(int[] array){
 
         int size = array.length;
 
